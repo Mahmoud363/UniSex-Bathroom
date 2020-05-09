@@ -1,0 +1,1800 @@
+Enter the number of Men: Enter the number of Women: Enter the number of times Men enter the bathroom: Enter the number of times Women enter the bathroom: 
+Woman #1 wants to enter the Bathroom
+
+Woman #1 is in the Bathroom for time number #1
+
+Woman #1 left the Bathroom
+
+Man #1 wants to in the Bathroom
+
+Man #20 wants to in the Bathroom
+
+Man #1 is in the Bathroom for time number #1
+
+Man #20 is in the Bathroom for time number #1
+
+Man #3 wants to in the Bathroom
+
+Man #3 is in the Bathroom for time number #1
+
+Man #19 wants to in the Bathroom
+
+Man #20 left the Bathroom
+
+Man #19 is in the Bathroom for time number #1
+
+Man #1 left the Bathroom
+
+Man #3 left the Bathroom
+
+Man #19 left the Bathroom
+
+Woman #3 wants to enter the Bathroom
+
+Woman #3 is in the Bathroom for time number #1
+
+Woman #3 left the Bathroom
+
+Man #5 wants to in the Bathroom
+
+Man #5 is in the Bathroom for time number #1
+
+Man #6 wants to in the Bathroom
+
+Man #6 is in the Bathroom for time number #1
+
+Man #6 left the Bathroom
+
+Man #5 left the Bathroom
+
+Woman #5 wants to enter the Bathroom
+
+Woman #5 is in the Bathroom for time number #1
+
+Woman #6 wants to enter the Bathroom
+
+Woman #6 is in the Bathroom for time number #1
+
+Woman #5 left the Bathroom
+
+Woman #6 left the Bathroom
+
+Man #7 wants to in the Bathroom
+
+Man #7 is in the Bathroom for time number #1
+
+Man #7 left the Bathroom
+
+Woman #7 wants to enter the Bathroom
+
+Woman #7 is in the Bathroom for time number #1
+
+Woman #7 left the Bathroom
+
+Man #8 wants to in the Bathroom
+
+Man #8 is in the Bathroom for time number #1
+
+Man #8 left the Bathroom
+
+Woman #8 wants to enter the Bathroom
+
+Woman #8 is in the Bathroom for time number #1
+
+Woman #8 left the Bathroom
+
+Man #9 wants to in the Bathroom
+
+Man #9 is in the Bathroom for time number #1
+
+Man #9 left the Bathroom
+
+Woman #9 wants to enter the Bathroom
+
+Woman #9 is in the Bathroom for time number #1
+
+Woman #9 left the Bathroom
+
+Man #10 wants to in the Bathroom
+
+Man #10 is in the Bathroom for time number #1
+
+Man #10 left the Bathroom
+
+Woman #10 wants to enter the Bathroom
+
+Woman #10 is in the Bathroom for time number #1
+
+Woman #10 left the Bathroom
+
+Man #11 wants to in the Bathroom
+
+Man #11 is in the Bathroom for time number #1
+
+Man #12 wants to in the Bathroom
+
+Man #12 is in the Bathroom for time number #1
+
+Man #13 wants to in the Bathroom
+
+Man #13 is in the Bathroom for time number #1
+
+Man #11 left the Bathroom
+
+Man #13 left the Bathroom
+
+Man #12 left the Bathroom
+
+Woman #11 wants to enter the Bathroom
+
+Woman #11 is in the Bathroom for time number #1
+
+Woman #11 left the Bathroom
+
+Man #14 wants to in the Bathroom
+
+Man #14 is in the Bathroom for time number #1
+
+Man #14 left the Bathroom
+
+Woman #12 wants to enter the Bathroom
+
+Woman #12 is in the Bathroom for time number #1
+
+Woman #12 left the Bathroom
+
+Man #15 wants to in the Bathroom
+
+Man #15 is in the Bathroom for time number #1
+
+Man #15 left the Bathroom
+
+Woman #13 wants to enter the Bathroom
+
+Woman #13 is in the Bathroom for time number #1
+
+Woman #13 left the Bathroom
+
+Man #16 wants to in the Bathroom
+
+Man #16 is in the Bathroom for time number #1
+
+Man #16 left the Bathroom
+
+Woman #14 wants to enter the Bathroom
+
+Woman #14 is in the Bathroom for time number #1
+
+Woman #15 wants to enter the Bathroom
+
+Woman #15 is in the Bathroom for time number #1
+
+Woman #15 left the Bathroom
+
+Woman #14 left the Bathroom
+
+Man #17 wants to in the Bathroom
+
+Man #17 is in the Bathroom for time number #1
+
+Man #17 left the Bathroom
+
+Woman #16 wants to enter the Bathroom
+
+Woman #16 is in the Bathroom for time number #1
+
+Woman #17 wants to enter the Bathroom
+
+Woman #17 is in the Bathroom for time number #1
+
+Woman #1 wants to enter the Bathroom
+
+Woman #1 is in the Bathroom for time number #2
+
+Woman #2 wants to enter the Bathroom
+
+Woman #17 left the Bathroom
+
+Woman #16 left the Bathroom
+
+Woman #1 left the Bathroom
+
+Woman #2 is in the Bathroom for time number #1
+
+Woman #2 left the Bathroom
+
+Man #2 wants to in the Bathroom
+
+Man #2 is in the Bathroom for time number #1
+
+Man #4 wants to in the Bathroom
+
+Man #4 is in the Bathroom for time number #1
+
+Man #18 wants to in the Bathroom
+
+Man #18 is in the Bathroom for time number #1
+
+Man #18 left the Bathroom
+
+Man #2 left the Bathroom
+
+Man #4 left the Bathroom
+
+Woman #4 wants to enter the Bathroom
+
+Woman #4 is in the Bathroom for time number #1
+
+Woman #19 wants to enter the Bathroom
+
+Woman #19 is in the Bathroom for time number #1
+
+Woman #18 wants to enter the Bathroom
+
+Woman #18 is in the Bathroom for time number #1
+
+Woman #19 left the Bathroom
+
+Woman #18 left the Bathroom
+
+Woman #4 left the Bathroom
+
+Man #34 wants to in the Bathroom
+
+Man #34 is in the Bathroom for time number #1
+
+Man #34 left the Bathroom
+
+Woman #37 wants to enter the Bathroom
+
+Woman #37 is in the Bathroom for time number #1
+
+Woman #38 wants to enter the Bathroom
+
+Woman #38 is in the Bathroom for time number #1
+
+Woman #38 left the Bathroom
+
+Woman #37 left the Bathroom
+
+Man #38 wants to in the Bathroom
+
+Man #38 is in the Bathroom for time number #1
+
+Man #20 wants to in the Bathroom
+
+Man #20 is in the Bathroom for time number #2
+
+Man #38 left the Bathroom
+
+Man #20 left the Bathroom
+
+Woman #34 wants to enter the Bathroom
+
+Woman #34 is in the Bathroom for time number #1
+
+Woman #34 left the Bathroom
+
+Man #1 wants to in the Bathroom
+
+Man #1 is in the Bathroom for time number #2
+
+Man #1 left the Bathroom
+
+Woman #35 wants to enter the Bathroom
+
+Woman #35 is in the Bathroom for time number #1
+
+Woman #35 left the Bathroom
+
+Man #3 wants to in the Bathroom
+
+Man #3 is in the Bathroom for time number #2
+
+Man #35 wants to in the Bathroom
+
+Man #35 is in the Bathroom for time number #1
+
+Man #3 left the Bathroom
+
+Man #35 left the Bathroom
+
+Woman #35 wants to enter the Bathroom
+
+Woman #35 is in the Bathroom for time number #2
+
+Woman #28 wants to enter the Bathroom
+
+Woman #28 is in the Bathroom for time number #1
+
+Woman #29 wants to enter the Bathroom
+
+Woman #29 is in the Bathroom for time number #1
+
+Woman #30 wants to enter the Bathroom
+
+Woman #31 wants to enter the Bathroom
+
+Woman #28 left the Bathroom
+
+Woman #35 left the Bathroom
+
+Woman #30 is in the Bathroom for time number #1
+
+Woman #31 is in the Bathroom for time number #1
+
+Woman #29 left the Bathroom
+
+Woman #30 left the Bathroom
+
+Woman #31 left the Bathroom
+
+Man #32 wants to in the Bathroom
+
+Man #32 is in the Bathroom for time number #1
+
+Man #32 left the Bathroom
+
+Woman #32 wants to enter the Bathroom
+
+Woman #32 is in the Bathroom for time number #1
+
+Woman #32 left the Bathroom
+
+Man #33 wants to in the Bathroom
+
+Man #33 is in the Bathroom for time number #1
+
+Man #33 left the Bathroom
+
+Woman #33 wants to enter the Bathroom
+
+Woman #33 is in the Bathroom for time number #1
+
+Woman #36 wants to enter the Bathroom
+
+Woman #36 is in the Bathroom for time number #1
+
+Woman #27 wants to enter the Bathroom
+
+Woman #27 is in the Bathroom for time number #1
+
+Woman #36 left the Bathroom
+
+Woman #33 left the Bathroom
+
+Woman #27 left the Bathroom
+
+Man #36 wants to in the Bathroom
+
+Man #36 is in the Bathroom for time number #1
+
+Man #37 wants to in the Bathroom
+
+Man #37 is in the Bathroom for time number #1
+
+Man #36 left the Bathroom
+
+Man #37 left the Bathroom
+
+Woman #26 wants to enter the Bathroom
+
+Woman #26 is in the Bathroom for time number #1
+
+Woman #25 wants to enter the Bathroom
+
+Woman #25 is in the Bathroom for time number #1
+
+Woman #24 wants to enter the Bathroom
+
+Woman #24 is in the Bathroom for time number #1
+
+Woman #23 wants to enter the Bathroom
+
+Woman #25 left the Bathroom
+
+Woman #23 is in the Bathroom for time number #1
+
+Woman #26 left the Bathroom
+
+Woman #24 left the Bathroom
+
+Woman #23 left the Bathroom
+
+Man #40 wants to in the Bathroom
+
+Man #40 is in the Bathroom for time number #1
+
+Man #40 left the Bathroom
+
+Woman #22 wants to enter the Bathroom
+
+Woman #22 is in the Bathroom for time number #1
+
+Woman #22 left the Bathroom
+
+Man #30 wants to in the Bathroom
+
+Man #30 is in the Bathroom for time number #1
+
+Man #26 wants to in the Bathroom
+
+Man #26 is in the Bathroom for time number #1
+
+Man #25 wants to in the Bathroom
+
+Man #25 is in the Bathroom for time number #1
+
+Man #29 wants to in the Bathroom
+
+Man #28 wants to in the Bathroom
+
+Man #27 wants to in the Bathroom
+
+Man #31 wants to in the Bathroom
+
+Man #24 wants to in the Bathroom
+
+Man #23 wants to in the Bathroom
+
+Man #22 wants to in the Bathroom
+
+Man #21 wants to in the Bathroom
+
+Man #26 left the Bathroom
+
+Man #29 is in the Bathroom for time number #1
+
+Man #25 left the Bathroom
+
+Man #27 is in the Bathroom for time number #1
+
+Man #30 left the Bathroom
+
+Man #28 is in the Bathroom for time number #1
+
+Man #27 left the Bathroom
+
+Man #24 is in the Bathroom for time number #1
+
+Man #28 left the Bathroom
+
+Man #31 is in the Bathroom for time number #1
+
+Man #29 left the Bathroom
+
+Man #23 is in the Bathroom for time number #1
+
+Man #23 left the Bathroom
+
+Man #24 left the Bathroom
+
+Man #31 left the Bathroom
+
+Man #21 is in the Bathroom for time number #1
+
+Man #22 is in the Bathroom for time number #1
+
+Man #21 left the Bathroom
+
+Man #22 left the Bathroom
+
+Woman #21 wants to enter the Bathroom
+
+Woman #21 is in the Bathroom for time number #1
+
+Woman #20 wants to enter the Bathroom
+
+Woman #20 is in the Bathroom for time number #1
+
+Woman #21 left the Bathroom
+
+Woman #20 left the Bathroom
+
+Man #44 wants to in the Bathroom
+
+Man #44 is in the Bathroom for time number #1
+
+Man #43 wants to in the Bathroom
+
+Man #43 is in the Bathroom for time number #1
+
+Man #42 wants to in the Bathroom
+
+Man #42 is in the Bathroom for time number #1
+
+Man #41 wants to in the Bathroom
+
+Man #45 wants to in the Bathroom
+
+Man #44 left the Bathroom
+
+Man #45 is in the Bathroom for time number #1
+
+Man #43 left the Bathroom
+
+Man #42 left the Bathroom
+
+Man #41 is in the Bathroom for time number #1
+
+Man #45 left the Bathroom
+
+Man #41 left the Bathroom
+
+Woman #48 wants to enter the Bathroom
+
+Woman #48 is in the Bathroom for time number #1
+
+Woman #46 wants to enter the Bathroom
+
+Woman #46 is in the Bathroom for time number #1
+
+Woman #49 wants to enter the Bathroom
+
+Woman #49 is in the Bathroom for time number #1
+
+Woman #45 wants to enter the Bathroom
+
+Woman #40 wants to enter the Bathroom
+
+Woman #50 wants to enter the Bathroom
+
+Woman #41 wants to enter the Bathroom
+
+Woman #42 wants to enter the Bathroom
+
+Woman #43 wants to enter the Bathroom
+
+Woman #44 wants to enter the Bathroom
+
+Woman #47 wants to enter the Bathroom
+
+Woman #48 left the Bathroom
+
+Woman #45 is in the Bathroom for time number #1
+
+Woman #49 left the Bathroom
+
+Woman #40 is in the Bathroom for time number #1
+
+Woman #46 left the Bathroom
+
+Woman #50 is in the Bathroom for time number #1
+
+Woman #50 left the Bathroom
+
+Woman #45 left the Bathroom
+
+Woman #41 is in the Bathroom for time number #1
+
+Woman #42 is in the Bathroom for time number #1
+
+Woman #40 left the Bathroom
+
+Woman #43 is in the Bathroom for time number #1
+
+Woman #42 left the Bathroom
+
+Woman #44 is in the Bathroom for time number #1
+
+Woman #41 left the Bathroom
+
+Woman #47 is in the Bathroom for time number #1
+
+Woman #43 left the Bathroom
+
+Woman #47 left the Bathroom
+
+Woman #44 left the Bathroom
+
+Man #50 wants to in the Bathroom
+
+Man #50 is in the Bathroom for time number #1
+
+Man #50 left the Bathroom
+
+Woman #39 wants to enter the Bathroom
+
+Woman #39 is in the Bathroom for time number #1
+
+Woman #39 left the Bathroom
+
+Man #49 wants to in the Bathroom
+
+Man #49 is in the Bathroom for time number #1
+
+Man #48 wants to in the Bathroom
+
+Man #48 is in the Bathroom for time number #1
+
+Man #47 wants to in the Bathroom
+
+Man #47 is in the Bathroom for time number #1
+
+Man #46 wants to in the Bathroom
+
+Man #19 wants to in the Bathroom
+
+Man #49 left the Bathroom
+
+Man #46 is in the Bathroom for time number #1
+
+Man #48 left the Bathroom
+
+Man #47 left the Bathroom
+
+Man #19 is in the Bathroom for time number #2
+
+Man #46 left the Bathroom
+
+Man #19 left the Bathroom
+
+Woman #3 wants to enter the Bathroom
+
+Woman #3 is in the Bathroom for time number #2
+
+Woman #3 left the Bathroom
+
+Man #6 wants to in the Bathroom
+
+Man #6 is in the Bathroom for time number #2
+
+Man #5 wants to in the Bathroom
+
+Man #5 is in the Bathroom for time number #2
+
+Man #6 left the Bathroom
+
+Man #5 left the Bathroom
+
+Woman #5 wants to enter the Bathroom
+
+Woman #5 is in the Bathroom for time number #2
+
+Woman #6 wants to enter the Bathroom
+
+Woman #6 is in the Bathroom for time number #2
+
+Woman #5 left the Bathroom
+
+Woman #6 left the Bathroom
+
+Man #7 wants to in the Bathroom
+
+Man #7 is in the Bathroom for time number #2
+
+Man #7 left the Bathroom
+
+Woman #7 wants to enter the Bathroom
+
+Woman #7 is in the Bathroom for time number #2
+
+Woman #7 left the Bathroom
+
+Man #8 wants to in the Bathroom
+
+Man #8 is in the Bathroom for time number #2
+
+Man #8 left the Bathroom
+
+Woman #8 wants to enter the Bathroom
+
+Woman #8 is in the Bathroom for time number #2
+
+Woman #8 left the Bathroom
+
+Man #9 wants to in the Bathroom
+
+Man #9 is in the Bathroom for time number #2
+
+Man #9 left the Bathroom
+
+Woman #9 wants to enter the Bathroom
+
+Woman #9 is in the Bathroom for time number #2
+
+Woman #9 left the Bathroom
+
+Man #10 wants to in the Bathroom
+
+Man #10 is in the Bathroom for time number #2
+
+Man #10 left the Bathroom
+
+Woman #10 wants to enter the Bathroom
+
+Woman #10 is in the Bathroom for time number #2
+
+Woman #10 left the Bathroom
+
+Man #11 wants to in the Bathroom
+
+Man #11 is in the Bathroom for time number #2
+
+Man #13 wants to in the Bathroom
+
+Man #13 is in the Bathroom for time number #2
+
+Man #12 wants to in the Bathroom
+
+Man #12 is in the Bathroom for time number #2
+
+Man #13 left the Bathroom
+
+Man #12 left the Bathroom
+
+Man #11 left the Bathroom
+
+Woman #11 wants to enter the Bathroom
+
+Woman #11 is in the Bathroom for time number #2
+
+Woman #11 left the Bathroom
+
+Man #14 wants to in the Bathroom
+
+Man #14 is in the Bathroom for time number #2
+
+Man #14 left the Bathroom
+
+Woman #12 wants to enter the Bathroom
+
+Woman #12 is in the Bathroom for time number #2
+
+Woman #12 left the Bathroom
+
+Man #15 wants to in the Bathroom
+
+Man #15 is in the Bathroom for time number #2
+
+Man #15 left the Bathroom
+
+Woman #13 wants to enter the Bathroom
+
+Woman #13 is in the Bathroom for time number #2
+
+Woman #13 left the Bathroom
+
+Man #16 wants to in the Bathroom
+
+Man #16 is in the Bathroom for time number #2
+
+Man #16 left the Bathroom
+
+Woman #15 wants to enter the Bathroom
+
+Woman #15 is in the Bathroom for time number #2
+
+Woman #14 wants to enter the Bathroom
+
+Woman #14 is in the Bathroom for time number #2
+
+Woman #14 left the Bathroom
+
+Woman #15 left the Bathroom
+
+Man #17 wants to in the Bathroom
+
+Man #17 is in the Bathroom for time number #2
+
+Man #17 left the Bathroom
+
+Woman #17 wants to enter the Bathroom
+
+Woman #17 is in the Bathroom for time number #2
+
+Woman #16 wants to enter the Bathroom
+
+Woman #16 is in the Bathroom for time number #2
+
+Woman #1 wants to enter the Bathroom
+
+Woman #1 is in the Bathroom for time number #3
+
+Woman #2 wants to enter the Bathroom
+
+Woman #17 left the Bathroom
+
+Woman #2 is in the Bathroom for time number #2
+
+Woman #16 left the Bathroom
+
+Woman #1 left the Bathroom
+
+Woman #2 left the Bathroom
+
+Man #18 wants to in the Bathroom
+
+Man #18 is in the Bathroom for time number #2
+
+Man #2 wants to in the Bathroom
+
+Man #2 is in the Bathroom for time number #2
+
+Man #4 wants to in the Bathroom
+
+Man #4 is in the Bathroom for time number #2
+
+Man #2 left the Bathroom
+
+Man #18 left the Bathroom
+
+Man #4 left the Bathroom
+
+Woman #19 wants to enter the Bathroom
+
+Woman #19 is in the Bathroom for time number #2
+
+Woman #18 wants to enter the Bathroom
+
+Woman #18 is in the Bathroom for time number #2
+
+Woman #4 wants to enter the Bathroom
+
+Woman #4 is in the Bathroom for time number #2
+
+Woman #19 left the Bathroom
+
+Woman #18 left the Bathroom
+
+Woman #4 left the Bathroom
+
+Man #34 wants to in the Bathroom
+
+Man #34 is in the Bathroom for time number #2
+
+Man #34 left the Bathroom
+
+Woman #38 wants to enter the Bathroom
+
+Woman #38 is in the Bathroom for time number #2
+
+Woman #37 wants to enter the Bathroom
+
+Woman #37 is in the Bathroom for time number #2
+
+Woman #38 left the Bathroom
+
+Woman #37 left the Bathroom
+
+Man #38 wants to in the Bathroom
+
+Man #38 is in the Bathroom for time number #2
+
+Man #20 wants to in the Bathroom
+
+Man #20 is in the Bathroom for time number #3
+
+Man #38 left the Bathroom
+
+Man #20 left the Bathroom
+
+Woman #34 wants to enter the Bathroom
+
+Woman #34 is in the Bathroom for time number #2
+
+Woman #34 left the Bathroom
+
+Man #1 wants to in the Bathroom
+
+Man #1 is in the Bathroom for time number #3
+
+Man #39 wants to in the Bathroom
+
+Man #39 is in the Bathroom for time number #1
+
+Man #3 wants to in the Bathroom
+
+Man #3 is in the Bathroom for time number #3
+
+Man #35 wants to in the Bathroom
+
+Man #39 left the Bathroom
+
+Man #35 is in the Bathroom for time number #2
+
+Man #1 left the Bathroom
+
+Man #3 left the Bathroom
+
+Man #35 left the Bathroom
+
+Woman #28 wants to enter the Bathroom
+
+Woman #28 is in the Bathroom for time number #2
+
+Woman #35 wants to enter the Bathroom
+
+Woman #35 is in the Bathroom for time number #3
+
+Woman #29 wants to enter the Bathroom
+
+Woman #29 is in the Bathroom for time number #2
+
+Woman #30 wants to enter the Bathroom
+
+Woman #31 wants to enter the Bathroom
+
+Woman #28 left the Bathroom
+
+Woman #30 is in the Bathroom for time number #2
+
+Woman #29 left the Bathroom
+
+Woman #35 left the Bathroom
+
+Woman #31 is in the Bathroom for time number #2
+
+Woman #30 left the Bathroom
+
+Woman #31 left the Bathroom
+
+Man #32 wants to in the Bathroom
+
+Man #32 is in the Bathroom for time number #2
+
+Man #32 left the Bathroom
+
+Woman #32 wants to enter the Bathroom
+
+Woman #32 is in the Bathroom for time number #2
+
+Woman #32 left the Bathroom
+
+Man #33 wants to in the Bathroom
+
+Man #33 is in the Bathroom for time number #2
+
+Man #33 left the Bathroom
+
+Woman #36 wants to enter the Bathroom
+
+Woman #36 is in the Bathroom for time number #2
+
+Woman #33 wants to enter the Bathroom
+
+Woman #33 is in the Bathroom for time number #2
+
+Woman #27 wants to enter the Bathroom
+
+Woman #27 is in the Bathroom for time number #2
+
+Woman #33 left the Bathroom
+
+Woman #36 left the Bathroom
+
+Woman #27 left the Bathroom
+
+Man #36 wants to in the Bathroom
+
+Man #36 is in the Bathroom for time number #2
+
+Man #37 wants to in the Bathroom
+
+Man #37 is in the Bathroom for time number #2
+
+Man #37 left the Bathroom
+
+Man #36 left the Bathroom
+
+Woman #25 wants to enter the Bathroom
+
+Woman #25 is in the Bathroom for time number #2
+
+Woman #26 wants to enter the Bathroom
+
+Woman #26 is in the Bathroom for time number #2
+
+Woman #24 wants to enter the Bathroom
+
+Woman #24 is in the Bathroom for time number #2
+
+Woman #23 wants to enter the Bathroom
+
+Woman #26 left the Bathroom
+
+Woman #25 left the Bathroom
+
+Woman #24 left the Bathroom
+
+Woman #23 is in the Bathroom for time number #2
+
+Woman #23 left the Bathroom
+
+Man #40 wants to in the Bathroom
+
+Man #40 is in the Bathroom for time number #2
+
+Man #40 left the Bathroom
+
+Woman #22 wants to enter the Bathroom
+
+Woman #22 is in the Bathroom for time number #2
+
+Woman #22 left the Bathroom
+
+Man #26 wants to in the Bathroom
+
+Man #26 is in the Bathroom for time number #2
+
+Man #25 wants to in the Bathroom
+
+Man #25 is in the Bathroom for time number #2
+
+Man #30 wants to in the Bathroom
+
+Man #30 is in the Bathroom for time number #2
+
+Man #27 wants to in the Bathroom
+
+Man #28 wants to in the Bathroom
+
+Man #29 wants to in the Bathroom
+
+Man #23 wants to in the Bathroom
+
+Man #25 left the Bathroom
+
+Man #25 wants to in the Bathroom
+
+Man #23 is in the Bathroom for time number #2
+
+Man #26 left the Bathroom
+
+Man #26 wants to in the Bathroom
+
+Man #31 wants to in the Bathroom
+
+Man #26 is in the Bathroom for time number #3
+
+Man #24 wants to in the Bathroom
+
+Man #21 wants to in the Bathroom
+
+Man #22 wants to in the Bathroom
+
+Man #30 left the Bathroom
+
+Man #29 is in the Bathroom for time number #2
+
+Man #23 left the Bathroom
+
+Man #25 is in the Bathroom for time number #3
+
+Man #26 left the Bathroom
+
+Man #29 left the Bathroom
+
+Man #24 is in the Bathroom for time number #2
+
+Man #27 is in the Bathroom for time number #2
+
+Man #27 left the Bathroom
+
+Man #24 left the Bathroom
+
+Man #25 left the Bathroom
+
+Man #21 is in the Bathroom for time number #2
+
+Man #22 is in the Bathroom for time number #2
+
+Man #31 is in the Bathroom for time number #2
+
+Man #21 left the Bathroom
+
+Man #22 left the Bathroom
+
+Man #28 is in the Bathroom for time number #2
+
+Man #31 left the Bathroom
+
+Man #28 left the Bathroom
+
+Woman #21 wants to enter the Bathroom
+
+Woman #21 is in the Bathroom for time number #2
+
+Woman #21 left the Bathroom
+
+Man #43 wants to in the Bathroom
+
+Man #43 is in the Bathroom for time number #2
+
+Man #43 left the Bathroom
+
+Woman #21 wants to enter the Bathroom
+
+Woman #21 is in the Bathroom for time number #3
+
+Woman #21 left the Bathroom
+
+Man #45 wants to in the Bathroom
+
+Man #45 is in the Bathroom for time number #2
+
+Man #41 wants to in the Bathroom
+
+Man #41 is in the Bathroom for time number #2
+
+Man #45 left the Bathroom
+
+Man #41 left the Bathroom
+
+Woman #48 wants to enter the Bathroom
+
+Woman #48 is in the Bathroom for time number #2
+
+Woman #49 wants to enter the Bathroom
+
+Woman #49 is in the Bathroom for time number #2
+
+Woman #46 wants to enter the Bathroom
+
+Woman #46 is in the Bathroom for time number #2
+
+Woman #50 wants to enter the Bathroom
+
+Woman #45 wants to enter the Bathroom
+
+Woman #40 wants to enter the Bathroom
+
+Woman #42 wants to enter the Bathroom
+
+Woman #41 wants to enter the Bathroom
+
+Woman #43 wants to enter the Bathroom
+
+Woman #48 left the Bathroom
+
+Woman #48 wants to enter the Bathroom
+
+Woman #48 is in the Bathroom for time number #3
+
+Woman #47 wants to enter the Bathroom
+
+Woman #49 left the Bathroom
+
+Woman #49 wants to enter the Bathroom
+
+Woman #49 is in the Bathroom for time number #3
+
+Woman #46 left the Bathroom
+
+Woman #50 is in the Bathroom for time number #2
+
+Woman #42 is in the Bathroom for time number #2
+
+Woman #50 left the Bathroom
+
+Woman #48 left the Bathroom
+
+Woman #41 is in the Bathroom for time number #2
+
+Woman #49 left the Bathroom
+
+Woman #43 is in the Bathroom for time number #2
+
+Woman #41 left the Bathroom
+
+Woman #42 left the Bathroom
+
+Woman #45 is in the Bathroom for time number #2
+
+Woman #43 left the Bathroom
+
+Woman #47 is in the Bathroom for time number #2
+
+Woman #40 is in the Bathroom for time number #2
+
+Woman #47 left the Bathroom
+
+Woman #45 left the Bathroom
+
+Woman #40 left the Bathroom
+
+Man #50 wants to in the Bathroom
+
+Man #50 is in the Bathroom for time number #2
+
+Man #49 wants to in the Bathroom
+
+Man #49 is in the Bathroom for time number #2
+
+Man #48 wants to in the Bathroom
+
+Man #48 is in the Bathroom for time number #2
+
+Man #47 wants to in the Bathroom
+
+Man #46 wants to in the Bathroom
+
+Man #19 wants to in the Bathroom
+
+Man #49 left the Bathroom
+
+Man #47 is in the Bathroom for time number #2
+
+Man #50 left the Bathroom
+
+Man #46 is in the Bathroom for time number #2
+
+Man #48 left the Bathroom
+
+Man #19 is in the Bathroom for time number #3
+
+Man #19 left the Bathroom
+
+Man #47 left the Bathroom
+
+Man #46 left the Bathroom
+
+Woman #3 wants to enter the Bathroom
+
+Woman #3 is in the Bathroom for time number #3
+
+Woman #3 left the Bathroom
+
+Man #6 wants to in the Bathroom
+
+Man #6 is in the Bathroom for time number #3
+
+Man #5 wants to in the Bathroom
+
+Man #5 is in the Bathroom for time number #3
+
+Man #5 left the Bathroom
+
+Man #6 left the Bathroom
+
+Woman #5 wants to enter the Bathroom
+
+Woman #5 is in the Bathroom for time number #3
+
+Woman #6 wants to enter the Bathroom
+
+Woman #6 is in the Bathroom for time number #3
+
+Woman #5 left the Bathroom
+
+Woman #6 left the Bathroom
+
+Man #7 wants to in the Bathroom
+
+Man #7 is in the Bathroom for time number #3
+
+Man #7 left the Bathroom
+
+Woman #7 wants to enter the Bathroom
+
+Woman #7 is in the Bathroom for time number #3
+
+Woman #7 left the Bathroom
+
+Man #8 wants to in the Bathroom
+
+Man #8 is in the Bathroom for time number #3
+
+Man #8 left the Bathroom
+
+Woman #8 wants to enter the Bathroom
+
+Woman #8 is in the Bathroom for time number #3
+
+Woman #8 left the Bathroom
+
+Man #9 wants to in the Bathroom
+
+Man #9 is in the Bathroom for time number #3
+
+Man #9 left the Bathroom
+
+Woman #9 wants to enter the Bathroom
+
+Woman #9 is in the Bathroom for time number #3
+
+Woman #9 left the Bathroom
+
+Man #10 wants to in the Bathroom
+
+Man #10 is in the Bathroom for time number #3
+
+Man #10 left the Bathroom
+
+Woman #10 wants to enter the Bathroom
+
+Woman #10 is in the Bathroom for time number #3
+
+Woman #10 left the Bathroom
+
+Man #13 wants to in the Bathroom
+
+Man #13 is in the Bathroom for time number #3
+
+Man #12 wants to in the Bathroom
+
+Man #12 is in the Bathroom for time number #3
+
+Man #11 wants to in the Bathroom
+
+Man #11 is in the Bathroom for time number #3
+
+Man #13 left the Bathroom
+
+Man #12 left the Bathroom
+
+Man #11 left the Bathroom
+
+Woman #11 wants to enter the Bathroom
+
+Woman #11 is in the Bathroom for time number #3
+
+Woman #11 left the Bathroom
+
+Man #14 wants to in the Bathroom
+
+Man #14 is in the Bathroom for time number #3
+
+Man #14 left the Bathroom
+
+Woman #12 wants to enter the Bathroom
+
+Woman #12 is in the Bathroom for time number #3
+
+Woman #12 left the Bathroom
+
+Man #15 wants to in the Bathroom
+
+Man #15 is in the Bathroom for time number #3
+
+Man #15 left the Bathroom
+
+Woman #13 wants to enter the Bathroom
+
+Woman #13 is in the Bathroom for time number #3
+
+Woman #13 left the Bathroom
+
+Man #16 wants to in the Bathroom
+
+Man #16 is in the Bathroom for time number #3
+
+Man #16 left the Bathroom
+
+Woman #14 wants to enter the Bathroom
+
+Woman #14 is in the Bathroom for time number #3
+
+Woman #15 wants to enter the Bathroom
+
+Woman #15 is in the Bathroom for time number #3
+
+Woman #14 left the Bathroom
+
+Woman #15 left the Bathroom
+
+Man #17 wants to in the Bathroom
+
+Man #17 is in the Bathroom for time number #3
+
+Man #17 left the Bathroom
+
+Woman #17 wants to enter the Bathroom
+
+Woman #17 is in the Bathroom for time number #3
+
+Woman #16 wants to enter the Bathroom
+
+Woman #16 is in the Bathroom for time number #3
+
+Woman #2 wants to enter the Bathroom
+
+Woman #2 is in the Bathroom for time number #3
+
+Woman #16 left the Bathroom
+
+Woman #17 left the Bathroom
+
+Woman #2 left the Bathroom
+
+Man #2 wants to in the Bathroom
+
+Man #2 is in the Bathroom for time number #3
+
+Man #18 wants to in the Bathroom
+
+Man #18 is in the Bathroom for time number #3
+
+Man #4 wants to in the Bathroom
+
+Man #4 is in the Bathroom for time number #3
+
+Man #18 left the Bathroom
+
+Man #4 left the Bathroom
+
+Man #2 left the Bathroom
+
+Woman #19 wants to enter the Bathroom
+
+Woman #19 is in the Bathroom for time number #3
+
+Woman #18 wants to enter the Bathroom
+
+Woman #18 is in the Bathroom for time number #3
+
+Woman #4 wants to enter the Bathroom
+
+Woman #4 is in the Bathroom for time number #3
+
+Woman #19 left the Bathroom
+
+Woman #18 left the Bathroom
+
+Woman #4 left the Bathroom
+
+Man #34 wants to in the Bathroom
+
+Man #34 is in the Bathroom for time number #3
+
+Man #34 left the Bathroom
+
+Woman #38 wants to enter the Bathroom
+
+Woman #38 is in the Bathroom for time number #3
+
+Woman #37 wants to enter the Bathroom
+
+Woman #37 is in the Bathroom for time number #3
+
+Woman #37 left the Bathroom
+
+Woman #38 left the Bathroom
+
+Man #38 wants to in the Bathroom
+
+Man #38 is in the Bathroom for time number #3
+
+Man #38 left the Bathroom
+
+Woman #34 wants to enter the Bathroom
+
+Woman #34 is in the Bathroom for time number #3
+
+Woman #34 left the Bathroom
+
+Man #39 wants to in the Bathroom
+
+Man #39 is in the Bathroom for time number #2
+
+Man #35 wants to in the Bathroom
+
+Man #35 is in the Bathroom for time number #3
+
+Man #39 left the Bathroom
+
+Man #35 left the Bathroom
+
+Woman #28 wants to enter the Bathroom
+
+Woman #28 is in the Bathroom for time number #3
+
+Woman #29 wants to enter the Bathroom
+
+Woman #29 is in the Bathroom for time number #3
+
+Woman #30 wants to enter the Bathroom
+
+Woman #30 is in the Bathroom for time number #3
+
+Woman #31 wants to enter the Bathroom
+
+Woman #29 left the Bathroom
+
+Woman #28 left the Bathroom
+
+Woman #31 is in the Bathroom for time number #3
+
+Woman #30 left the Bathroom
+
+Woman #31 left the Bathroom
+
+Man #32 wants to in the Bathroom
+
+Man #32 is in the Bathroom for time number #3
+
+Man #32 left the Bathroom
+
+Woman #32 wants to enter the Bathroom
+
+Woman #32 is in the Bathroom for time number #3
+
+Woman #32 left the Bathroom
+
+Man #33 wants to in the Bathroom
+
+Man #33 is in the Bathroom for time number #3
+
+Man #33 left the Bathroom
+
+Woman #33 wants to enter the Bathroom
+
+Woman #33 is in the Bathroom for time number #3
+
+Woman #36 wants to enter the Bathroom
+
+Woman #36 is in the Bathroom for time number #3
+
+Woman #27 wants to enter the Bathroom
+
+Woman #27 is in the Bathroom for time number #3
+
+Woman #36 left the Bathroom
+
+Woman #33 left the Bathroom
+
+Woman #27 left the Bathroom
+
+Man #37 wants to in the Bathroom
+
+Man #37 is in the Bathroom for time number #3
+
+Man #36 wants to in the Bathroom
+
+Man #36 is in the Bathroom for time number #3
+
+Man #36 left the Bathroom
+
+Man #37 left the Bathroom
+
+Woman #26 wants to enter the Bathroom
+
+Woman #26 is in the Bathroom for time number #3
+
+Woman #25 wants to enter the Bathroom
+
+Woman #25 is in the Bathroom for time number #3
+
+Woman #24 wants to enter the Bathroom
+
+Woman #24 is in the Bathroom for time number #3
+
+Woman #23 wants to enter the Bathroom
+
+Woman #24 left the Bathroom
+
+Woman #26 left the Bathroom
+
+Woman #23 is in the Bathroom for time number #3
+
+Woman #25 left the Bathroom
+
+Woman #23 left the Bathroom
+
+Man #40 wants to in the Bathroom
+
+Man #40 is in the Bathroom for time number #3
+
+Man #40 left the Bathroom
+
+Woman #22 wants to enter the Bathroom
+
+Woman #22 is in the Bathroom for time number #3
+
+Woman #22 left the Bathroom
+
+Man #44 wants to in the Bathroom
+
+Man #44 is in the Bathroom for time number #2
+
+Man #44 left the Bathroom
+
+Woman #20 wants to enter the Bathroom
+
+Woman #20 is in the Bathroom for time number #2
+
+Woman #20 left the Bathroom
+
+Man #30 wants to in the Bathroom
+
+Man #30 is in the Bathroom for time number #3
+
+Man #23 wants to in the Bathroom
+
+Man #23 is in the Bathroom for time number #3
+
+Man #29 wants to in the Bathroom
+
+Man #29 is in the Bathroom for time number #3
+
+Man #27 wants to in the Bathroom
+
+Man #24 wants to in the Bathroom
+
+Man #21 wants to in the Bathroom
+
+Man #22 wants to in the Bathroom
+
+Man #22 is in the Bathroom for time number #3
+
+Man #30 left the Bathroom
+
+Man #31 wants to in the Bathroom
+
+Man #31 is in the Bathroom for time number #3
+
+Man #28 wants to in the Bathroom
+
+Man #23 left the Bathroom
+
+Man #42 wants to in the Bathroom
+
+Man #43 wants to in the Bathroom
+
+Man #45 wants to in the Bathroom
+
+Man #29 left the Bathroom
+
+Man #21 is in the Bathroom for time number #3
+
+Man #41 wants to in the Bathroom
+
+Man #21 left the Bathroom
+
+Man #31 left the Bathroom
+
+Man #24 is in the Bathroom for time number #3
+
+Man #28 is in the Bathroom for time number #3
+
+Man #22 left the Bathroom
+
+Man #42 is in the Bathroom for time number #2
+
+Man #28 left the Bathroom
+
+Man #24 left the Bathroom
+
+Man #27 is in the Bathroom for time number #3
+
+Man #42 left the Bathroom
+
+Man #43 is in the Bathroom for time number #3
+
+Man #45 is in the Bathroom for time number #3
+
+Man #27 left the Bathroom
+
+Man #43 left the Bathroom
+
+Man #41 is in the Bathroom for time number #3
+
+Man #45 left the Bathroom
+
+Man #41 left the Bathroom
+
+Woman #44 wants to enter the Bathroom
+
+Woman #44 is in the Bathroom for time number #2
+
+Woman #46 wants to enter the Bathroom
+
+Woman #46 is in the Bathroom for time number #3
+
+Woman #39 wants to enter the Bathroom
+
+Woman #39 is in the Bathroom for time number #2
+
+Woman #50 wants to enter the Bathroom
+
+Woman #41 wants to enter the Bathroom
+
+Woman #42 wants to enter the Bathroom
+
+Woman #43 wants to enter the Bathroom
+
+Woman #47 wants to enter the Bathroom
+
+Woman #47 is in the Bathroom for time number #3
+
+Woman #44 left the Bathroom
+
+Woman #44 wants to enter the Bathroom
+
+Woman #44 is in the Bathroom for time number #3
+
+Woman #46 left the Bathroom
+
+Woman #45 wants to enter the Bathroom
+
+Woman #40 wants to enter the Bathroom
+
+Woman #39 left the Bathroom
+
+Woman #42 is in the Bathroom for time number #3
+
+Woman #44 left the Bathroom
+
+Woman #42 left the Bathroom
+
+Woman #43 is in the Bathroom for time number #3
+
+Woman #47 left the Bathroom
+
+Woman #41 is in the Bathroom for time number #3
+
+Woman #45 is in the Bathroom for time number #3
+
+Woman #41 left the Bathroom
+
+Woman #43 left the Bathroom
+
+Woman #50 is in the Bathroom for time number #3
+
+Woman #45 left the Bathroom
+
+Woman #40 is in the Bathroom for time number #3
+
+Woman #50 left the Bathroom
+
+Woman #40 left the Bathroom
+
+Man #50 wants to in the Bathroom
+
+Man #50 is in the Bathroom for time number #3
+
+Man #48 wants to in the Bathroom
+
+Man #48 is in the Bathroom for time number #3
+
+Man #47 wants to in the Bathroom
+
+Man #47 is in the Bathroom for time number #3
+
+Man #46 wants to in the Bathroom
+
+Man #39 wants to in the Bathroom
+
+Man #44 wants to in the Bathroom
+
+Man #50 left the Bathroom
+
+Man #46 is in the Bathroom for time number #3
+
+Man #48 left the Bathroom
+
+Man #39 is in the Bathroom for time number #3
+
+Man #47 left the Bathroom
+
+Man #46 left the Bathroom
+
+Man #44 is in the Bathroom for time number #3
+
+Man #44 left the Bathroom
+
+Man #39 left the Bathroom
+
+Woman #20 wants to enter the Bathroom
+
+Woman #20 is in the Bathroom for time number #3
+
+Woman #20 left the Bathroom
+
+Man #42 wants to in the Bathroom
+
+Man #42 is in the Bathroom for time number #3
+
+Man #42 left the Bathroom
+
+Woman #39 wants to enter the Bathroom
+
+Woman #39 is in the Bathroom for time number #3
+
+Woman #39 left the Bathroom
+
+Man #49 wants to in the Bathroom
+
+Man #49 is in the Bathroom for time number #3
+
+Man #49 left the Bathroom
