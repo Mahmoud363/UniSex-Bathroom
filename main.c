@@ -10,7 +10,7 @@ sem_t man_sem, woman_sem;
 sem_t man_sem_counter, woman_sem_counter;
 sem_t queue;
 
-int m_count, w_count;
+int men_count, women_count;
 // a struct containing the parameters which will be passed to the function
 typedef struct parm
 {
@@ -23,9 +23,9 @@ typedef struct parm
 void man_enters(int i){
 	sem_wait(&queue); 	// lock the queue semaphore in order to give this thread a priority while waiting
 		sem_wait(&man_sem); 	// lock the man semaphore in order to be able to increment and check for equality without any race condition
-			if(m_count == 0) sem_wait(&toilet_sem); 	// lock the bathroom represnting that it is used by men. if this fails, wait untill women leave
-			m_count++; 
-			printf("\nMan #%d wants to in the Bathroom\n",i);
+			if(men_count == 0) sem_wait(&toilet_sem); 	// lock the bathroom represnting that it is used by men. if this fails, wait untill women leave
+			men_count++; 
+			printf("\nMan #%d wants to in the Bathroom",i);
 
 		sem_post(&man_sem); 	// unlock man semaphore to allow others to run the critical section
 	sem_post(&queue); 	// unlock the queue representing that a new thread can be the head of the queue
@@ -37,10 +37,10 @@ void man_leaves(int i){
 	sem_post(&man_sem_counter); 	// increment the counting semaphore to allow any new male thread to enter the bathroom
 
 	sem_wait(&man_sem); 	// lock the man semaphore to secure the decrement and equality operation from any race conditions
-		m_count--;
-		printf("\nMan #%d left the Bathroom\n",i);
+		men_count--;
+		printf("\nMan #%d left the Bathroom",i);
 
-		if(m_count == 0) sem_post(&toilet_sem); 	// free the bathroom from men and allow the other gender to enter if applicable 
+		if(men_count == 0) sem_post(&toilet_sem); 	// free the bathroom from men and allow the other gender to enter if applicable 
 
 	sem_post(&man_sem); 
 }
@@ -53,7 +53,7 @@ void* male_thread(void* arg)
 	int itr = thread_arg->itr;
     for(int i=0; i<itr; i++){ 	// loop for the number of times passed by the user
     	man_enters(id);		// call the entering function
-		printf("\nMan #%d is in the Bathroom for time number #%d\n",id,i+1); 
+		printf("\nMan #%d is in the Bathroom for time number #%d",id,i+1); 
     	usleep(250); 	// sleep for 250 microsecond
     	man_leaves(id);		// call the leaving function
     }
@@ -64,9 +64,9 @@ void* male_thread(void* arg)
 void woman_enters(int i){
 	sem_wait(&queue);	// lock the queue semaphore in order to give this thread a priority while waiting
 		sem_wait(&woman_sem);	// lock the woman semaphore in order to be able to increment and check for equality without any race condition
-			if(w_count == 0) sem_wait(&toilet_sem);// lock the bathroom represnting that it is used by women. if this fails, wait untill men leave
-			w_count++;
-			printf("\nWoman #%d wants to enter the Bathroom\n",i);
+			if(women_count == 0) sem_wait(&toilet_sem);// lock the bathroom represnting that it is used by women. if this fails, wait untill men leave
+			women_count++;
+			printf("\nWoman #%d wants to enter the Bathroom",i);
 		sem_post(&woman_sem);	// unlock woman semaphore to allow others to run the critical section
 	sem_post(&queue);	// unlock the queue representing that a new thread can be the head of the queue
 	sem_wait(&woman_sem_counter);	// decrease the counting semaphore to allow only 3 threads to in the bathroom
@@ -76,9 +76,9 @@ void woman_enters(int i){
 void woman_leaves(int i){ //as always
 	sem_post(&woman_sem_counter);// increment the counting semaphore to allow any new female thread to enter the bathroom
 	sem_wait(&woman_sem);// lock the womman semaphore to secure the decrement and equality operation from any race conditions
-		w_count--;
-		printf("\nWoman #%d left the Bathroom\n",i);
-		if(w_count == 0) sem_post(&toilet_sem);// free the bathroom from women and allow the other gender to enter if applicable 
+		women_count--;
+		printf("\nWoman #%d left the Bathroom",i);
+		if(women_count == 0) sem_post(&toilet_sem);// free the bathroom from women and allow the other gender to enter if applicable 
 	sem_post(&woman_sem);
 }
 
@@ -90,7 +90,7 @@ void* female_thread(void* arg)
 	int itr = thread_arg->itr;
     for(int i=0; i<itr; i++){// loop for the number of times passed by the user
     	woman_enters(id); // call the entering function
-    	printf("\nWoman #%d is in the Bathroom for time number #%d\n",id,i+1); 
+    	printf("\nWoman #%d is in the Bathroom for time number #%d",id,i+1); 
     	usleep(500); // sleep for 500 microsecond
     	woman_leaves(id); // call the leaving function
     }
